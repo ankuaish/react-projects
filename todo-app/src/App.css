@@ -1,0 +1,10 @@
+input {
+  width: 100%;
+}
+
+.mine-row {
+  margin: 10px 5px;
+}
+.mine-button {
+  min-width: 80px;
+}
