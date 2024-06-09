@@ -1,0 +1,9 @@
+.calculator {
+  border: 1px solid rgba(0, 0, 0, 0.281);
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  width: 200px;
+}
